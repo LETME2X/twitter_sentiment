@@ -4,9 +4,6 @@
 
 A Python-based tool for real-time Twitter sentiment analysis using **Tweepy** and **TextBlob**.
 
-## Demo
-
-![Sentiment Analysis of Tweets Over Time](path_to_your_visualization_image)
 
 ## Features
 
